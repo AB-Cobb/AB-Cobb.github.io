@@ -77,8 +77,11 @@ nav {
     padding: 0;
     margin-bottom: 5em;
 }
+
 footer{
-    color: #222;
+    color: #335;
+    text-align: right;
+    margin: 2em;
 }
 #links table{
     margin: auto;
