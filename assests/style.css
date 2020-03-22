@@ -1,0 +1,110 @@
+html {
+    height: 100%;
+}
+body {
+    background-image: radial-gradient(#00f, #006, #002);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    font-family: Candara, sans-serif;
+    height: 100%;
+}
+header{
+    background-color: orange;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin: 0;
+    padding: 0;
+    
+}
+nav ol{
+    margin: auto;
+    padding: 0.5em;
+    width: 85%;
+    text-align: justify;
+}
+nav ol li{
+    display: inline-block;
+    padding-left: 0em;
+   margin-right: 0.2em;
+}
+nav ol li a{
+    font-size: 10pt;
+    color: darkgray;
+    background-color: black;
+    border: #111 2px solid;
+    padding: 0.3em;
+    text-decoration: none;
+    }
+ul{
+    margin: 0;
+    margin-left: 2em;
+    padding: 0;
+}
+section{
+    background-color: #eee;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 1em;
+    padding: 0em;
+    border: white 1px solid;
+    box-shadow:  -3px -3px orangered;
+}
+h2, h3, h4, p{
+    margin: 0em;
+}
+#mypic{
+    float: left;
+    margin: 0;
+    padding: 2em 1em;
+    background-color: #eee;
+}
+#dragonboat{
+    margin: auto;
+    width: 65%;
+}
+#quote{
+    clear: both;
+}
+div{
+    padding: 1em 1em;
+}
+nav {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 5em;
+}
+footer{
+    color: #222;
+}
+#links table{
+    margin: auto;
+    padding: 0;
+    width: 80%;
+    table-layout: fixed
+}
+#links table tr td{
+    padding: 1em;
+}
+#links table tr td a{
+    display: inline-block;
+    background-color: lightblue;
+    text-align: center;
+    text-decoration: none;
+    border: blue 2px solid;
+    padding: 0.3em;
+    width: 100%;
+}
+#mypic img{
+    
+    border-radius: 3em 0em 6em 0em;
+}
+img{
+    border: darkgray 2px solid;
+}
+.centre{
+    text-align: center;
+}
